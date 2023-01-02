@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Matt Brooks
 - 👀 I’m interested in React and DevOps
-- 🌱 I’m currently learning AI, Machine Learning, and C++
+- 🌱 I’m currently learning AI, Machine Learning, and Rust
 - 💞️ I’m looking to collaborate on automation projects
